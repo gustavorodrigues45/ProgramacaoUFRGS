@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main(void)
 {
-float a, b; //Declaracao da variavel com os par�metros int soma; //Declarcaoo da variavel com o
+float a, b; //Declaracao da variavel com os parametros int soma; //Declarcaoo da variavel com o
 float soma;
 printf("Insira o valor de a: ");
 scanf("%f",&a);
