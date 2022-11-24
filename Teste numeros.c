@@ -12,6 +12,6 @@ soma = a + b;
 printf("Resultado da soma: %.4f\n", soma);
 getchar();
 printf("Terminou");
-/* O comando getchar() paraa o programa ate que seja digitado algum caracter */
+/* O comando getchar() para o programa ate que seja digitado algum caracter */
 return 0;
 }
